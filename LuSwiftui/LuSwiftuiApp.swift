@@ -1,14 +1,14 @@
 //
-//  luiosApp.swift
-//  luios
+//  LuSwiftuiApp.swift
+//  LuSwiftui
 //
-//  Created by Who care on 21/07/2023.
+//  Created by VN Savis on 30/11/2023.
 //
 
 import SwiftUI
 
 @main
-struct luiosApp: App {
+struct LuSwiftuiApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
